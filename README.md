@@ -1,21 +1,21 @@
 <h1>hello there</h1>
 
 ```python
-def jackrtl_attributes():
+def jacknvw_attributes():
     name        = 'Pedro Henrique'
     age         = 17
-    discord     = 'jackrtl #9375'
+    discord     = 'jacknvw#9375'
     prog_langs  = {
         'learning' : 'css',
         'basic knowledge' : 'python', 'html',
-        'will learn' : 'javascript'
+        'learning' : 'javascript'
     }
     
     return name, age, discord, prog_langs
     
 ```
 
-<p>Knowledges in:</p>
+<p>Knowledge</p>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,py" />
