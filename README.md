@@ -24,4 +24,4 @@ def jacknvw_attributes():
 
 # stats
 
-![jackrtl-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackrtl-exe&show_icons=true&theme=gruvbox)
+![jackrtl-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacknvw&show_icons=true&theme=dracula)
