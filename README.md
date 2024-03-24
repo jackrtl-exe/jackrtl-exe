@@ -2,10 +2,11 @@
 
 ```python
 def attributes():
-    name       = "Pedro"
+    name       = 'Pedro'
     age        = 17
     progLangs  = {
         "basic knowledge" : "python", "html", "css"
+        "re-studying"     : "python"
     }
     
     return name, age, discord, prog_langs
