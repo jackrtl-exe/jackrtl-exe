@@ -1,13 +1,11 @@
 # hello there
 
 ```python
-def jacknvw_attributes():
-    name        = "Pedro Henrique"
-    age         = 17
-    discord     = "jacknvw#9375"
-    prog_langs  = {
-        "learning" : "css", "javascript"
-        "basic knowledge" : "python", "html"
+def attributes():
+    name       = "Pedro"
+    age        = 17
+    progLangs  = {
+        "basic knowledge" : "python", "html", "css"
     }
     
     return name, age, discord, prog_langs
