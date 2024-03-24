@@ -9,7 +9,7 @@ def attributes():
         "re-studying"     : "python"
     }
     
-    return name, age, discord, prog_langs
+    return name, age, prog_langs
     
 ```
 
