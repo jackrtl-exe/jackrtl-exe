@@ -7,6 +7,7 @@ def attributes():
     progLangs  = {
         "basic knowledge" : "python", "html", "css"
         "re-studying"     : "python"
+        "objectives"      : "JavaScript", "C#"
     }
     
     return name, age, prog_langs
